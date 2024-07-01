@@ -17,9 +17,14 @@ I am an early career Public Health Professional with four years of experience in
 ### TB Notifications Analysis and Prediction
 This project focuses on analyzing and predicting annual tuberculosis (TB) notifications in Nepal using historical data and machine-learning techniques. The analysis leverages libraries such as pandas, numpy, matplotlib, and scikit-learn.
 
+Link: https://github.com/SSushila/Annual_TB_Cases_LinearRegression
+
 ### Heart Disease Analysis Project
 
 This heart disease dataset, obtained from a reputable multispecialty hospital in India, contains a wealth of information with 14 common features, making it a valuable resource for cardiovascular research. 
+
+Link: https://github.com/SSushila/HeartDiseaseAnalysis
+
 
 ## Professional Experience
 
