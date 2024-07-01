@@ -1,10 +1,10 @@
 # Sushila Shreesh - Aspiring Digital Health Expert and Health Economist
 
-Welcome to my portfolio website! My name is Sushila Shreesh, and currently working as a District Coordinator in the Dang District of Nepal. I have an undergraduate degree in Public Health and I aspire to become a leading digital health expert and health economist in the near future. This repository showcases my professional journey, skills, projects, and achievements in the field of public health.
+Welcome to my portfolio website! My name is Sushila Shreesh, and I am currently working as a District Coordinator in the Dang District of Nepal. I have an undergraduate degree in Public Health and I aspire to become a leading digital health expert and health economist in the near future. This repository showcases my professional journey, skills, projects, and achievements in the field of public health.
 
 ## About Me
 
-I am currently serving as the District Program Coordinator at Kapilbastu Integrated Development Services, where I have made significant contributions to tuberculosis (TB) case findings and health program management. My career in public health includes impactful roles in TB and leprosy control programs across Nepal. I hold a Bachelor of Public Health from Pokhara University and have received various certifications related to public health.
+Early career Public Health Professional with four years of experience in disease control and management. Provided patient-centred integrated health services. Implemented prophylaxis, case detection, capacity strengthening, volunteer management, complication, and disability management programs. Posses excellent skills in project management, monitoring and evaluation, data analysis and report writing, and research projects. Willingness to work and commit myself to an area that enhances self-growth by adding core values to the organization.
 
 ## Contact Information
 
@@ -45,7 +45,7 @@ This heart disease dataset, obtained from a reputable multispecialty hospital in
 
 ### Research Assistant
 **Center for Research on Environment Health and Population Activities (CREHPA)** (Aug 2019 – Oct 2019)
-- Supported household listing and data collection for a study in Dolakha district.
+- Supported household listing and data collection for a study in the Dolakha district.
 - Presented field findings, contributing to the project's success.
 
 ## Education
