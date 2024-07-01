@@ -92,7 +92,7 @@ Link: https://github.com/SSushila/HeartDiseaseAnalysis
 
 ### Languages
 - **Nepali:** Native
-- **English:** Proficient (C1)
+- **English:** Proficient (B2)
 - **German:** Basic (A1)
 
 ## Certifications and Trainings
