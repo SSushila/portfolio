@@ -4,7 +4,7 @@ Welcome to my portfolio website! My name is Sushila Shreesh, and currently worki
 
 ## About Me
 
-I am currently serving as the District Program Coordinator at Kapilbastu Integrated Development Services, where I have made significant contributions to tuberculosis (TB) case findings and health program management. My career in public health includes impactful roles in TB and leprosy control programs across Nepal. I hold a Bachelor of Public Health from Pokhara University and have received various certifications related to public health and data analysis.
+I am currently serving as the District Program Coordinator at Kapilbastu Integrated Development Services, where I have made significant contributions to tuberculosis (TB) case findings and health program management. My career in public health includes impactful roles in TB and leprosy control programs across Nepal. I hold a Bachelor of Public Health from Pokhara University and have received various certifications related to public health.
 
 ## Contact Information
 
