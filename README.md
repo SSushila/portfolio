@@ -1,6 +1,6 @@
 # Sushila Shreesh - Aspiring Digital Health Expert and Health Economist
 
-Welcome to my portfolio website! My name is Sushila Shreesh, and I aspire to become a leading digital health expert and health economist. This repository showcases my professional journey, skills, projects, and achievements in the field of public health.
+Welcome to my portfolio website! My name is Sushila Shreesh, and currently working as a District Coordinator in the Dang District of Nepal. I have an undergraduate degree in Public Health and I aspire to become a leading digital health expert and health economist in the near future. This repository showcases my professional journey, skills, projects, and achievements in the field of public health.
 
 ## About Me
 
