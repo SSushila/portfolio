@@ -1,4 +1,4 @@
-# Sushila Shreesh - Digital Health Expert and Health Economist
+# Sushila Shreesh - Aspiring Digital Health Expert and Health Economist
 
 Welcome to my portfolio website! My name is Sushila Shreesh, and I aspire to become a leading digital health expert and health economist. This repository showcases my professional journey, skills, projects, and achievements in the field of public health.
 
@@ -11,6 +11,15 @@ I am currently serving as the District Program Coordinator at Kapilbastu Integra
 - **Email:** [sushilashreesh97@gmail.com](mailto:sushilashreesh97@gmail.com)
 - **Phone:** (+977) 9866051969
 - **Location:** Harichowr, Galkot, Baglung, Nepal
+
+## Selected Projects
+
+### TB Notifications Analysis and Prediction
+This project focuses on analyzing and predicting annual tuberculosis (TB) notifications in Nepal using historical data and machine-learning techniques. The analysis leverages libraries such as pandas, numpy, matplotlib, and scikit-learn.
+
+### Heart Disease Analysis Project
+
+This heart disease dataset, obtained from a reputable multispecialty hospital in India, contains a wealth of information with 14 common features, making it a valuable resource for cardiovascular research. 
 
 ## Professional Experience
 
@@ -96,11 +105,6 @@ I am currently serving as the District Program Coordinator at Kapilbastu Integra
 
 ### Conferences and Seminars
 - Poster presentation on Fifth National Summit of Health and Population Scientists in Nepal: "Attitude towards disability among persons with physical disability in relation to Income Generation Activities in Bhaktapur Municipality"
-
-## Projects
-
-### TB Notifications Analysis and Prediction
-This project focuses on analyzing and predicting annual tuberculosis (TB) notifications in Nepal using historical data and machine learning techniques. The analysis leverages libraries such as pandas, numpy, matplotlib, and scikit-learn.
 
 ## License
 
